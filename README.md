@@ -37,6 +37,9 @@
 | **t** | Type (Category) | One of the pre-defined categories listed on the admin page.  |
 | **d** | Description | A short description about what the command does. Written in gramtically correct English. |
 
+# Contribute Mod Commands!
+Mod owners (or mod users): Want your commands added to Dododex. Add them to the `bp.json` file with your Mod's name as the `t` attribute. If your mod has a large number of items and/or dinos. Please join the Dododex Discord and chat with Dan first. Thanks!
+
 # Questions?
 
 [Join Dododex's Discord](https://discord.gg/KvmRSSV) to chat or discuss this project!

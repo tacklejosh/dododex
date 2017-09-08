@@ -1,7 +1,7 @@
 # Dododex
 <a href="http://www.dododex.com">Taming Calculator for Ark: Survival Evolved</a>
 
-## Editing Creature/Item Spawn Codes
+## Editing Ark Creature/Item Spawn Codes
 
 **To contribute:**
 
@@ -19,7 +19,7 @@
 | **id** | Blueprint ID | As listed in the Dev Kit |
 | **bp** | Blueprint Path | All blueprints are prepended with `/Game/` |
 
-## Editing Admin Commands 
+## Editing Ark Admin Commands 
 
 **To contribute:**
 

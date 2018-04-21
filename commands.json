@@ -47,15 +47,15 @@
 "t":"Items",
 "d":"Clear a player's inventory and/or item slots. (0 = false, 1 = true)"
 },{
-"id":"ClearTutorial",
-"c":"ClearTutorial",
-"e":"ClearTutorial",
+"id":"ClearTutorials",
+"c":"ClearTutorials",
+"e":"ClearTutorials",
 "t":"Misc",
-"d":"Clears the game tutorial."
+"d":"Clears the game tutorial making it so they re-appear without being forced."
 },{
-"id":"DebugStructure",
-"c":"DebugStructure",
-"e":"DebugStructure",
+"id":"DebugStructures",
+"c":"DebugStructures",
+"e":"DebugStructures",
 "t":"Misc",
 "d":"Debug information on structures."
 },{
@@ -89,9 +89,9 @@
 "t":"Tribe & Player Administration",
 "d":"Destroys all creatures in the tribe of the target (player/creature)."
 },{
-"id":"DestroyTribePlayer",
-"c":"DestroyTribePlayer",
-"e":"DestroyTribePlayer",
+"id":"DestroyTribePlayers",
+"c":"DestroyTribePlayers",
+"e":"DestroyTribePlayers",
 "t":"Tribe & Player Administration",
 "d":"Kills all players in the tribe of the target (player/creature)."
 },{
@@ -191,6 +191,12 @@
 "t":"Tribe & Player Administration",
 "d":"Details on this command are unknown."
 },{
+"id":"ForceTameAOE",
+"c":"ForceTameAOE <Radius>",
+"e":"ForceTameAOE 2500",
+"t":"Dinos",
+"d":"Tames all dinos within specified radius, defaults to 2000 if no number is given."
+},{
 "id":"GameCommand",
 "c":"GameCommand <TheCommand>",
 "e":"GameCommand test",
@@ -219,7 +225,7 @@
 "c":"GetPlayerIDForSteamID <Steam ID>",
 "e":"GetPlayerIDForSteamID 12567890",
 "t":"Tribe & Player Administration",
-"d":"Returns the player ID for a player based on their Steam ID."
+"d":"Returns the player ID for a player based on their Steam ID. This does not currently work."
 },{
 "id":"GetSteamIDForPlayerID",
 "c":"GetSteamIDForPlayerID <PlayerId>",
@@ -257,6 +263,24 @@
 "t":"Items",
 "d":"Gives current player a specificied quantity of every type of dye."
 },{
+"id":"GiveCreativeMode",
+"c":"GiveCreativeMode",
+"e":"GiveCreativeMode",
+"t":"Cheats",
+"d":"Enables Creative mode for yourself. Can be shortened as GCM"
+},{
+"id":"GiveCreativeModeToTarget",
+"c":"GiveCreativeModeToTarget",
+"e":"GiveCreativeModeToTarget",
+"t":"Cheats",
+"d":"Enables Creative mode for your target. Can be shortened as GCMT"
+},{
+"id":"GiveCreativeModeToPlayer",
+"c":"GiveCreativeModeToPlayer <PlayerID>",
+"e":"GiveCreativeModeToPlayer 1234567890",
+"t":"Cheats",
+"d":"Enables Creative mode for the specified player. Can be shortened as GCMP"
+},{
 "id":"GiveEngrams",
 "c":"GiveEngrams",
 "e":"GiveEngrams",
@@ -268,6 +292,18 @@
 "e":"GiveExpToPlayer 123567890 500 1 0",
 "t":"Player Status",
 "d":"Gives XP to a specific player."
+},{
+"id":"GiveExpToTarget",
+"c":"GiveExpToTarget <Quantity of XP> <From Tribe Share?> <Prevent Sharing With Tribe?>",
+"e":"GiveExpToTarget 500 1 0",
+"t":"Player Status",
+"d":"Gives XP to the target player."
+},{
+"id":"GiveInfiniteStatsToTarget",
+"c":"GiveInfiniteStatsToTarget",
+"e":"GiveInfiniteStatsToTarget",
+"t":"Cheats",
+"d":"Gives Infinite Stats to targeted player or dino. Only works on dinos currently."
 },{
 "id":"GiveItem",
 "c":"GiveItem <Blueprint Path> <Quantity> <Quality> <Force Blueprint?>",
@@ -371,6 +407,12 @@
 "t":"Player Status",
 "d":"Kills a player based on their Player ID."
 },{
+"id":"KillAOE",
+"c":"KillAOE <Category> <Radius>",
+"e":"KillAOE wild 2500",
+"t":"Structures / Dinos",
+"d":"Kills or destroys all items of specified category within radius. Valid categories are pawns, dinos, wild, tamed, players, or structures."
+},{
 "id":"LeaveMeAlone",
 "c":"LeaveMeAlone",
 "e":"LeaveMeAlone",
@@ -419,6 +461,12 @@
 "t":"Commands",
 "d":"Prints a list of colors."
 },{
+"id":"RainCritters",
+"c":"RainCritters <amount> <spread> <height>",
+"e":"RainCritters 30 300 200",
+"t":"Dinos",
+"d":"Spawns a mix of sheep and dodos above the player. Defaults values 30 300 200"
+},{
 "id":"RemoveTribeAdmin",
 "c":"RemoveTribeAdmin",
 "e":"RemoveTribeAdmin",
@@ -466,6 +514,12 @@
 "e":"ScriptCommand CommandString",
 "t":"Commands",
 "d":"Runs a mod script."
+},{
+"id":"SDF",
+"c":"SDF <NamePart> <Tamed>",
+"e":"SDF dodo 1",
+"t":"Dinos",
+"d":"Spawn a creature of specified type with a random level."
 },{
 "id":"ServerChat",
 "c":"ServerChat <MessageText>",
@@ -748,4 +802,16 @@
 "e":"Walk",
 "t":"Movement",
 "d":"Disables Fly mode."
+},{
+"id":"ShowMyAdminManager",
+"c":"ShowMyAdminManager",
+"e":"ShowMyAdminManager",
+"t":"Tribe & Player Administration",
+"d":"Opens the admin manager GUI."
+},{
+"id":"EnableSpectator",
+"c":"EnableSpectator",
+"e":"EnableSpectator",
+"t":"Misc",
+"d":"Enables spectator mode (destroys inventory)."
 }]}

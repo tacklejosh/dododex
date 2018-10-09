@@ -4741,4 +4741,9 @@
 "t":"Dinos",
 "id":"Otter_Character_BP_C",
 "bp":"PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP"
+},{
+"label":"Daeodon Saddle",
+"t":"Saddles",
+"id":"PrimalItemArmor_DaeodonSaddle_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle"
 }]}

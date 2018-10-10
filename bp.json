@@ -6605,4 +6605,9 @@
 "t":"Aberration",
 "id":"LanternGoat_Character_BP_C",
 "bp":"Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP"
+},{
+"label":"Yutyrannus Lungs",
+"t":"Artifacts",
+"bp":"PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Yuty.PrimalItemResource_ApexDrop_Yuty",
+"g":"ApexDrop_Yuty"
 }]}

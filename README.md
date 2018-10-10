@@ -18,7 +18,7 @@
 | **label** | Name of the item/creature | Should match the in-game name unless the in-game is not consistent. For example, "Turtle Egg" shoudl be "Carbonemys Egg." |
 | **id** | Blueprint ID | As listed in the Dev Kit |
 | **bp** | Blueprint Path | All blueprints are prepended with `/Game/` |
-| **gfi** | GFI  | A working phrase to use in a GFI command. For example, Allosaurus Kibble	would be "Kibble_Allo" |
+| **g** | GFI  | A working phrase to use in a GFI command. For example, Allosaurus Kibble	would be "Kibble_Allo" |
 
 ## Editing Ark Admin Commands 
 

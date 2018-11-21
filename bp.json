@@ -5624,6 +5624,7 @@
 },{
 "label":"Daeodon Saddle",
 "t":"Saddles",
+"id":"PrimalItemArmor_DaeodonSaddle_C",
 "bp":"PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle"
 },{
 "label":"Phoenix",
@@ -6605,8 +6606,911 @@
 "id":"LanternGoat_Character_BP_C",
 "bp":"Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP"
 },{
-"label":"Yutyrannus Lungs",
-"t":"Artifacts",
-"bp":"PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Yuty.PrimalItemResource_ApexDrop_Yuty",
-"g":"ApexDrop_Yuty"
-}]}
+"label":"Anglerfish",
+"t":"Fish",
+"id":"Angler_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP"
+},{
+"label":"Bunny Dodo",
+"t":"Event Creatures",
+"bp":"PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Bunny.Dodo_Character_BP_Bunny"
+},{
+"label":"Bunny Oviraptor",
+"t":"Event Creatures",
+"bp":"PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP"
+},{
+"label":"Compy",
+"t":"Dinosaurs",
+"id":"Compy_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP"
+},{
+"label":"Pachy",
+"cid":"pachy",
+"t":"Dinosaurs",
+"id":"Pachy_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP"
+},{
+"label":"Phoenix",
+"cid":"phoenix",
+"t":"Fantasy",
+"id":"Phoenix_Character_BP_C",
+"bp":"ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP"
+},{
+"label":"Rex",
+"cid":"rex",
+"t":"Dinosaurs",
+"id":"Rex_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
+},{
+"label":"Sarco",
+"cid":"sarco",
+"t":"Reptiles",
+"id":"Sarco_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP"
+},{
+"label":"Tek Parasaur",
+"cid":"tek parasaur",
+"t":"Tek Creatures",
+"id":"BionicPara_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP"
+},{
+"label":"Tek Quetzal",
+"cid":"tek quetzal",
+"t":"Tek Creatures",
+"id":"BionicQuetz_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP"
+},{
+"label":"Tek Raptor",
+"cid":"tek raptor",
+"t":"Tek Creatures",
+"id":"BionicRaptor_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP"
+},{
+"label":"Tek Rex",
+"cid":"tek rex",
+"t":"Tek Creatures",
+"id":"BionicRex_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP"
+},{
+"label":"Tek Stegosaurus",
+"cid":"tek stegosaurus",
+"t":"Tek Creatures",
+"id":"BionicStego_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP"
+},{
+"label":"Ice Wyvern",
+"cid":"wyvern",
+"t":"Fantasy",
+"id":"Ragnarok_Wyvern_Override_Ice_C",
+"bp":"Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice.Ragnarok_Wyvern_Override_Ice"
+},{
+"label":"Aberrant Achatina",
+"t":"Invertebrates",
+"id":"Achatina_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant"
+},{
+"label":"Aberrant Anglerfish",
+"t":"Fish",
+"id":"Angler_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant"
+},{
+"label":"Aberrant Ankylosaurus",
+"t":"Dinosaurs",
+"id":"Ankylo_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant"
+},{
+"label":"Aberrant Araneo",
+"t":"Invertebrates",
+"id":"SpiderS_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP_Aberrant.SpiderS_Character_BP_Aberrant"
+},{
+"label":"Aberrant Arthropluera",
+"t":"Invertebrates",
+"id":"Arthro_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP_Aberrant.Arthro_Character_BP_Aberrant"
+},{
+"label":"Aberrant Baryonyx",
+"t":"Dinosaurs",
+"id":"Baryonyx_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant"
+},{
+"label":"Aberrant Beelzebufo",
+"t":"Reptiles",
+"id":"Toad_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Toad/Toad_Character_BP_Aberrant.Toad_Character_BP_Aberrant"
+},{
+"label":"Aberrant Carbonemys",
+"t":"Reptiles",
+"id":"Turtle_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Turtle/Turtle_Character_BP_Aberrant.Turtle_Character_BP_Aberrant"
+},{
+"label":"Aberrant Carnotaurus",
+"t":"Dinosaurs",
+"id":"Carno_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Carno/Carno_Character_BP_Aberrant.Carno_Character_BP_Aberrant"
+},{
+"label":"Aberrant Cnidaria",
+"t":"Invertebrates",
+"id":"Cnidaria_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP_Aberrant.Cnidaria_Character_BP_Aberrant"
+},{
+"label":"Aberrant Coelacanth",
+"t":"Fish",
+"id":"Coel_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_Aberrant.Coel_Character_BP_Aberrant"
+},{
+"label":"Aberrant Dimetrodon",
+"t":"Dinosaurs",
+"id":"Dimetro_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP_Aberrant.Dimetro_Character_BP_Aberrant"
+},{
+"label":"Aberrant Dimorphodon",
+"t":"Dinosaurs",
+"id":"Dimorph_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP_Aberrant.Dimorph_Character_BP_Aberrant"
+},{
+"label":"Aberrant Diplocaulus",
+"t":"Amphibians",
+"id":"Diplocaulus_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP_Aberrant.Diplocaulus_Character_BP_Aberrant"
+},{
+"label":"Aberrant Diplodocus",
+"t":"Dinosaurs",
+"id":"Diplodocus_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP_Aberrant.Diplodocus_Character_BP_Aberrant"
+},{
+"label":"Aberrant Direbear",
+"t":"Mammals",
+"id":"Direbear_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Direbear/Direbear_Character_BP_Aberrant.Direbear_Character_BP_Aberrant"
+},{
+"label":"Aberrant Dodo",
+"t":"Birds",
+"id":"Dodo_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Aberrant.Dodo_Character_BP_Aberrant"
+},{
+"label":"Aberrant Doedicurus",
+"t":"Dinosaurs",
+"id":"Doed_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant"
+},{
+"label":"Aberrant Dung Beetle",
+"t":"Invertebrates",
+"id":"DungBeetle_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant"
+},{
+"label":"Aberrant Electrophorus",
+"t":"Fish",
+"id":"Eel_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Eel/Eel_Character_BP_Aberrant.Eel_Character_BP_Aberrant"
+},{
+"label":"Aberrant Equus",
+"t":"Mammals",
+"id":"Equus_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Equus/Equus_Character_BP_Aberrant.Equus_Character_BP_Aberrant"
+},{
+"label":"Aberrant Gigantopithecus",
+"t":"Mammals",
+"id":"Bigfoot_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP_Aberrant.Bigfoot_Character_BP_Aberrant"
+},{
+"label":"Aberrant Iguanodon",
+"t":"Dinosaurs",
+"id":"Iguanodon_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP_Aberrant.Iguanodon_Character_BP_Aberrant"
+},{
+"label":"Aberrant Lystrosaurus",
+"t":"Dinosaurs",
+"id":"Lystro_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP_Aberrant.Lystro_Character_BP_Aberrant"
+},{
+"label":"Aberrant Manta",
+"t":"Fish",
+"id":"Manta_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Manta/Manta_Character_BP_Aberrant.Manta_Character_BP_Aberrant"
+},{
+"label":"Aberrant Megalania",
+"cid":"megalania",
+"t":"Reptiles",
+"id":"Megalania_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Megalania/Megalania_Character_BP_Aberrant.Megalania_Character_BP_Aberrant"
+},{
+"label":"Aberrant Megalosaurus",
+"t":"Dinosaurs",
+"id":"Megalosaurus_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_Aberrant.Megalosaurus_Character_BP_Aberrant"
+},{
+"label":"Aberrant Meganeura",
+"t":"Invertebrates",
+"id":"Dragonfly_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP_Aberrant.Dragonfly_Character_BP_Aberrant"
+},{
+"label":"Aberrant Moschops",
+"t":"Synapsids",
+"id":"Moschops_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant"
+},{
+"label":"Aberrant Otter",
+"t":"Mammals",
+"id":"Otter_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Otter/Otter_Character_BP_Aberrant.Otter_Character_BP_Aberrant"
+},{
+"label":"Aberrant Ovis",
+"t":"Mammals",
+"id":"Sheep_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Sheep/Sheep_Character_BP_Aberrant.Sheep_Character_BP_Aberrant"
+},{
+"label":"Aberrant Paraceratherium",
+"t":"Mammals",
+"id":"Paracer_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP_Aberrant.Paracer_Character_BP_Aberrant"
+},{
+"label":"Aberrant Parasaur",
+"t":"Dinosaurs",
+"id":"Para_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Para/Para_Character_BP_Aberrant.Para_Character_BP_Aberrant"
+},{
+"label":"Aberrant Piranha",
+"t":"Fish",
+"id":"Piranha_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Piranha/Piranha_Character_BP_Aberrant.Piranha_Character_BP_Aberrant"
+},{
+"label":"Aberrant Pulmonoscorpius",
+"t":"Invertebrates",
+"id":"Scorpion_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP_Aberrant.Scorpion_Character_BP_Aberrant"
+},{
+"label":"Aberrant Purlovia",
+"t":"Synapsids",
+"id":"Purlovia_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP_Aberrant.Purlovia_Character_BP_Aberrant"
+},{
+"label":"Aberrant Raptor",
+"t":"Dinosaurs",
+"id":"Raptor_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Raptor/Raptor_Character_BP_Aberrant.Raptor_Character_BP_Aberrant"
+},{
+"label":"Aberrant Sabertooth Salmon",
+"t":"Fish",
+"id":"Salmon_Character_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Salmon/Salmon_Character_Aberrant.Salmon_Character_Aberrant"
+},{
+"label":"Aberrant Sarco",
+"t":"Reptiles",
+"id":"Sarco_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Sarco/Sarco_Character_BP_Aberrant.Sarco_Character_BP_Aberrant"
+},{
+"label":"Tek Parasaur",
+"cid":"parasaur",
+"t":"Tek Creatures",
+"id":"BionicPara_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP"
+},{
+"label":"Tek Quetzal",
+"cid":"quetzal",
+"t":"Tek Creatures",
+"id":"BionicQuetz_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP"
+},{
+"label":"Tek Raptor",
+"cid":"raptor",
+"t":"Tek Creatures",
+"id":"BionicRaptor_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP"
+},{
+"label":"Tek Rex",
+"cid":"rex",
+"t":"Tek Creatures",
+"id":"BionicRex_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP"
+},{
+"label":"Tek Stegosaurus",
+"cid":"stegosaurus",
+"t":"Tek Creatures",
+"id":"BionicStego_Character_BP_C",
+"bp":"PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP"
+},{
+"label":"Ice Wyvern",
+"cid":"wyvern",
+"t":"Fantasy",
+"id":"Ragnarok_Wyvern_Override_Ice_C",
+"bp":"Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice.Ragnarok_Wyvern_Override_Ice"
+},{
+"label":"Aberrant Anglerfish",
+"t":"Fish",
+"id":"Angler_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant"
+},{
+"label":"Aberrant Direbear",
+"t":"Mammals",
+"id":"Direbear_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Direbear/Direbear_Character_BP_Aberrant.Direbear_Character_BP_Aberrant"
+},{
+"label":"Aberrant Gigantopithecus",
+"t":"Mammals",
+"id":"Bigfoot_Character_BP_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP_Aberrant.Bigfoot_Character_BP_Aberrant"
+},{
+"label":"Aberrant Sabertooth Salmon",
+"t":"Fish",
+"id":"Salmon_Character_Aberrant_C",
+"bp":"PrimalEarth/Dinos/Salmon/Salmon_Character_Aberrant.Salmon_Character_Aberrant"
+},{
+"label":"Alpha Surface Reaper King",
+"t":"Alpha Predators",
+"id":"MegaXenomorph_Character_BP_Male_Surface_C",
+"bp":"Aberration/Dinos/Nameless/MegaXenomorph_Character_BP_Male_Surface.MegaXenomorph_Character_BP_Male_Surface"
+},{
+"label":"Alpha King Titan",
+"t":"Extinction",
+"id":"KingKaiju_Character_BP_Alpha_C",
+"bp":"Extinction/Dinos/KingKaiju/KingKaiju_Character_BP_Alpha.KingKaiju_Character_BP_Alpha"
+},{
+"label":"Beta King Titan",
+"t":"Extinction",
+"id":"KingKaiju_Character_BP_Beta_C",
+"bp":"Extinction/Dinos/KingKaiju/KingKaiju_Character_BP_Beta.KingKaiju_Character_BP_Beta"
+},{
+"label":"Corrupt Tumor",
+"t":"Extinction",
+"id":"CorruptTumor_Character_BP_C",
+"bp":"Extinction/Dinos/KingKaiju/CorruptTumor_Character_BP.CorruptTumor_Character_BP"
+},{
+"label":"Corrupted Arthropluera",
+"t":"Extinction",
+"id":"Arthro_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Arthropluera/Arthro_Character_BP_Corrupt.Arthro_Character_BP_Corrupt"
+},{
+"label":"Corrupted Carnotaurus",
+"t":"Extinction",
+"id":"Carno_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Carno/Carno_Character_BP_Corrupt.Carno_Character_BP_Corrupt"
+},{
+"label":"Corrupted Chalicotherium",
+"t":"Extinction",
+"id":"Chalico_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Chalicotherium/Chalico_Character_BP_Corrupt.Chalico_Character_BP_Corrupt"
+},{
+"label":"Corrupted Deathworm",
+"t":"Extinction",
+"id":"Deathworm_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Deathworm/Deathworm_Character_BP_Corrupt.Deathworm_Character_BP_Corrupt"
+},{
+"label":"Corrupted Dilophosaur",
+"t":"Extinction",
+"id":"Dilo_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Dilo/Dilo_Character_BP_Corrupt.Dilo_Character_BP_Corrupt"
+},{
+"label":"Corrupted Dimorphodon",
+"t":"Extinction",
+"id":"Dimorph_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Dimorphodon/Dimorph_Character_BP_Corrupt.Dimorph_Character_BP_Corrupt"
+},{
+"label":"Corrupted Giganotosaurus",
+"t":"Extinction",
+"id":"Gigant_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Giganotosaurus/Gigant_Character_BP_Corrupt.Gigant_Character_BP_Corrupt"
+},{
+"label":"Corrupted Paraceratherium",
+"t":"Extinction",
+"id":"Paracer_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Paraceratherium/Paracer_Character_BP_Corrupt.Paracer_Character_BP_Corrupt"
+},{
+"label":"Corrupted Pteranodon",
+"t":"Extinction",
+"id":"Ptero_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Ptero/Ptero_Character_BP_Corrupt.Ptero_Character_BP_Corrupt"
+},{
+"label":"Corrupted Raptor",
+"t":"Extinction",
+"id":"Raptor_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Raptor/Raptor_Character_BP_Corrupt.Raptor_Character_BP_Corrupt"
+},{
+"label":"Corrupted Reaper King",
+"t":"Extinction",
+"id":"Xenomorph_Character_BP_Male_Tamed_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Nameless/Xenomorph_Character_BP_Male_Tamed_Corrupt.Xenomorph_Character_BP_Male_Tamed_Corrupt"
+},{
+"label":"Corrupted Rex",
+"t":"Extinction",
+"id":"Rex_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Rex/Rex_Character_BP_Corrupt.Rex_Character_BP_Corrupt"
+},{
+"label":"Corrupted Rock Drake",
+"t":"Extinction",
+"id":"RockDrake_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/RockDrake/RockDrake_Character_BP_Corrupt.RockDrake_Character_BP_Corrupt"
+},{
+"label":"Corrupted Spino",
+"t":"Extinction",
+"id":"Spino_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Spino/Spino_Character_BP_Corrupt.Spino_Character_BP_Corrupt"
+},{
+"label":"Corrupted Stegosaurus",
+"t":"Extinction",
+"id":"Stego_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Stego/Stego_Character_BP_Corrupt.Stego_Character_BP_Corrupt"
+},{
+"label":"Corrupted Triceratops",
+"t":"Extinction",
+"id":"Trike_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Trike/Trike_Character_BP_Corrupt.Trike_Character_BP_Corrupt"
+},{
+"label":"Corrupted Wyvern",
+"t":"Extinction",
+"id":"Wyvern_Character_BP_Fire_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Wyvern/Wyvern_Character_BP_Fire_Corrupt.Wyvern_Character_BP_Fire_Corrupt"
+},{
+"label":"Defense Unit",
+"t":"Extinction",
+"id":"Defender_Character_BP_C",
+"bp":"Extinction/Dinos/Tank/Defender_Character_BP.Defender_Character_BP"
+},{
+"label":"Desert Titan",
+"t":"Extinction",
+"id":"DesertKaiju_Character_BP_C",
+"bp":"Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP"
+},{
+"label":"Desert Titan Flock",
+"t":"Extinction",
+"id":"DesertKaiju_FirstFlockChar_BP_C",
+"bp":"Extinction/Dinos/DesertKaiju/DesertKaiju_FirstFlockChar_BP.DesertKaiju_FirstFlockChar_BP"
+},{
+"label":"Enforcer",
+"t":"Extinction",
+"id":"Enforcer_Character_BP_C",
+"bp":"Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP"
+},{
+"label":"Enraged Corrupted Rex",
+"t":"Extinction",
+"id":"MegaRex_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Rex/MegaRex_Character_BP_Corrupt.MegaRex_Character_BP_Corrupt"
+},{
+"label":"Enraged Triceratops",
+"t":"Extinction",
+"id":"MegaTrike_Character_BP_Corrupt_C",
+"bp":"Extinction/Dinos/Corrupt/Trike/MegaTrike_Character_BP_Corrupt.MegaTrike_Character_BP_Corrupt"
+},{
+"label":"Forest Titan",
+"t":"Extinction",
+"id":"ForestKaiju_Character_BP_C",
+"bp":"Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP"
+},{
+"label":"Forest Wyvern",
+"t":"Extinction",
+"id":"Wyvern_Character_BP_Fire_Minion_C",
+"bp":"Extinction/Dinos/ForestKaiju/Minion/Wyvern_Character_BP_Fire_Minion.Wyvern_Character_BP_Fire_Minion"
+},{
+"label":"Gacha",
+"t":"Extinction",
+"id":"Gacha_Character_BP_C",
+"bp":"Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP"
+},{
+"label":"Gamma King Titan",
+"t":"Extinction",
+"id":"KingKaiju_Character_BP_C",
+"bp":"Extinction/Dinos/KingKaiju/KingKaiju_Character_BP.KingKaiju_Character_BP"
+},{
+"label":"Gasbags",
+"t":"Extinction",
+"id":"GasBags_Character_BP_C",
+"bp":"Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP"
+},{
+"label":"Ice Titan",
+"t":"Extinction",
+"id":"IceKaiju_Character_BP_C",
+"bp":"Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP"
+},{
+"label":"Managarmr",
+"t":"Extinction",
+"id":"IceJumper_Character_BP_C",
+"bp":"Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP"
+},{
+"label":"Mega Mek",
+"t":"Extinction",
+"id":"MegaMek_Character_BP_C",
+"bp":"Extinction/Dinos/Mek/MegaMek_Character_BP.MegaMek_Character_BP"
+},{
+"label":"Mek",
+"t":"Extinction",
+"id":"Mek_Character_BP_C",
+"bp":"Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP"
+},{
+"label":"Scout",
+"t":"Extinction",
+"id":"Scout_Character_BP_C",
+"bp":"Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP"
+},{
+"label":"Snow Owl",
+"t":"Extinction",
+"id":"Owl_Character_BP_C",
+"bp":"Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
+},{
+"label":"Velonasaur",
+"t":"Extinction",
+"id":"Spindles_Character_BP_C",
+"bp":"Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP"
+},{
+"label":"Empty Cryopod",
+"t":"Tools",
+"bp":"Extinction/CoreBlueprints/Weapons/PrimalItem_WeaponEmptyCryopod.PrimalItem_WeaponEmptyCryopod"
+},{
+"label":"Taxidermy Tool",
+"t":"Tools",
+"bp":"Extinction/CoreBlueprints/Weapons/PrimalItem_WeaponTaxidermyTool.PrimalItem_WeaponTaxidermyTool"
+},{
+"label":"M.D.S.M.",
+"t":"Armor",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_MekBackpack_Shield.PrimalItemArmor_MekBackpack_Shield"
+},{
+"label":"M.O.M.I.",
+"t":"Armor",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_MekTransformer.PrimalItemArmor_MekTransformer"
+},{
+"label":"M.R.L.M.",
+"t":"Armor",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_MekBackpack_MissilePod.PrimalItemArmor_MekBackpack_MissilePod"
+},{
+"label":"M.S.C.M.",
+"t":"Armor",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_MekBackpack_SiegeCannon.PrimalItemArmor_MekBackpack_SiegeCannon"
+},{
+"label":"Basilisk Saddle",
+"t":"Saddles",
+"bp":"Aberration/Dinos/Basilisk/PrimalItemArmor_BasiliskSaddle.PrimalItemArmor_BasiliskSaddle"
+},{
+"label":"Gacha Saddle",
+"t":"Saddles",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_GachaSaddle.PrimalItemArmor_GachaSaddle"
+},{
+"label":"Gasbags Saddle",
+"t":"Saddles",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_GasBagsSaddle.PrimalItemArmor_GasBagsSaddle"
+},{
+"label":"Hyaenodon Meatpack",
+"t":"Saddles",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_HyaenodonSaddle.PrimalItemArmor_HyaenodonSaddle"
+},{
+"label":"Karkinos Saddle",
+"t":"Saddles",
+"bp":"Aberration/Dinos/Crab/PrimalItemArmor_CrabSaddle.PrimalItemArmor_CrabSaddle"
+},{
+"label":"Managarmr Saddle",
+"t":"Saddles",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_IceJumperSaddle.PrimalItemArmor_IceJumperSaddle"
+},{
+"label":"Megalania Saddle",
+"t":"Saddles",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegalaniaSaddle.PrimalItemArmor_MegalaniaSaddle"
+},{
+"label":"Megalodon Tek Saddle",
+"t":"Saddles",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegalodonSaddle_Tek.PrimalItemArmor_MegalodonSaddle_Tek"
+},{
+"label":"Megatherium Saddle",
+"t":"Saddles",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle"
+},{
+"label":"Ravager Saddle",
+"t":"Saddles",
+"bp":"Aberration/Dinos/CaveWolf/PrimalItemArmor_CavewolfSaddle.PrimalItemArmor_CavewolfSaddle"
+},{
+"label":"Rock Drake Saddle",
+"t":"Saddles",
+"bp":"Aberration/Dinos/RockDrake/PrimalItemArmor_RockDrakeSaddle.PrimalItemArmor_RockDrakeSaddle"
+},{
+"label":"Rock Drake Tek Saddle",
+"t":"Saddles",
+"bp":"Aberration/Dinos/RockDrake/PrimalItemArmor_RockDrakeSaddle_Tek.PrimalItemArmor_RockDrakeSaddle_Tek"
+},{
+"label":"Roll Rat Saddle",
+"t":"Saddles",
+"bp":"Aberration/Dinos/MoleRat/PrimalItemArmor_MoleRatSaddle.PrimalItemArmor_MoleRatSaddle"
+},{
+"label":"Snow Owl Saddle",
+"t":"Saddles",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_OwlSaddle.PrimalItemArmor_OwlSaddle"
+},{
+"label":"Tapejara Tek Saddle",
+"t":"Saddles",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_Tapejara_Tek.PrimalItemArmor_Tapejara_Tek"
+},{
+"label":"Velonasaur Saddle",
+"t":"Saddles",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_SpindlesSaddle.PrimalItemArmor_SpindlesSaddle"
+},{
+"label":"Yutyrannus Saddle",
+"t":"Saddles",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_YutySaddle.PrimalItemArmor_YutySaddle"
+},{
+"label":"Cryofridge",
+"t":"Structures",
+"bp":"Extinction/CoreBlueprints/Items/PrimalItemStructure_CryoFridge.PrimalItemStructure_CryoFridge"
+},{
+"label":"Delivery Crate",
+"t":"Structures",
+"bp":"Extinction/Structures/ItemBalloon/PrimalItemStructure_StorageBox_Balloon.PrimalItemStructure_StorageBox_Balloon"
+},{
+"label":"Dino Leash",
+"t":"Structures",
+"bp":"Extinction/Structures/DinoLeash/PrimalItemStructure_DinoLeash.PrimalItemStructure_DinoLeash"
+},{
+"label":"King Titan Flag",
+"t":"Structures",
+"bp":"Extinction/CoreBlueprints/Trophies/PrimalItemStructure_Flag_KingKaiju.PrimalItemStructure_Flag_KingKaiju"
+},{
+"label":"King Titan Flag (Mecha)",
+"t":"Structures",
+"bp":"Extinction/CoreBlueprints/Trophies/PrimalItemStructure_Flag_KingKaijuMecha.PrimalItemStructure_Flag_KingKaijuMecha"
+},{
+"label":"Large Taxidermy Base",
+"t":"Structures",
+"bp":"Extinction/CoreBlueprints/Items/PrimalItemStructure_TaxidermyBase_Large.PrimalItemStructure_TaxidermyBase_Large"
+},{
+"label":"Medium Taxidermy Base",
+"t":"Structures",
+"bp":"Extinction/CoreBlueprints/Items/PrimalItemStructure_TaxidermyBase_Medium.PrimalItemStructure_TaxidermyBase_Medium"
+},{
+"label":"Small Taxidermy Base",
+"t":"Structures",
+"bp":"Extinction/CoreBlueprints/Items/PrimalItemStructure_TaxidermyBase_Small.PrimalItemStructure_TaxidermyBase_Small"
+},{
+"label":"Tek Bridge",
+"t":"Structures",
+"bp":"Extinction/Structures/TekBridge/PrimalItemStructure_TekBridge.PrimalItemStructure_TekBridge"
+},{
+"label":"Filled Fish Basket",
+"t":"Consumables",
+"bp":"PrimalEarth/CoreBlueprints/Items/PrimalItem_FishBasketFilled.PrimalItem_FishBasketFilled"
+},{
+"label":"Extra Small Advanced Kibble",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_XSmall_EX.PrimalItemConsumable_Kibble_Base_XSmall_EX"
+},{
+"label":"Small Advanced Kibble",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Small_EX.PrimalItemConsumable_Kibble_Base_Small_EX"
+},{
+"label":"Regular Augmented Kibble",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Medium_EX.PrimalItemConsumable_Kibble_Base_Medium_EX"
+},{
+"label":"Superior Augmented Kibble",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Large_EX.PrimalItemConsumable_Kibble_Base_Large_EX"
+},{
+"label":"Exceptional Augmented Kibble",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_XLarge_EX.PrimalItemConsumable_Kibble_Base_XLarge_EX"
+},{
+"label":"Extraordinary Augmented Kibble",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Special_EX.PrimalItemConsumable_Kibble_Base_Special_EX"
+},{
+"label":"Evil Emote",
+"t":"Consumables",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockEmote_Evil.PrimalItemConsumable_UnlockEmote_Evil"
+},{
+"label":"Gacha Crystal",
+"t":"Consumables",
+"bp":"Extinction/Dinos/Gacha/PrimalItemConsumable_GachaPod.PrimalItemConsumable_GachaPod"
+},{
+"label":"Unassembled Enforcer",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/PrimalItem_Spawner_Enforcer.PrimalItem_Spawner_Enforcer"
+},{
+"label":"Unassembled Mek",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/PrimalItem_Spawner_Mek.PrimalItem_Spawner_Mek"
+},{
+"label":"Basilisk Egg",
+"t":"Eggs",
+"bp":"Aberration/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Basilisk.PrimalItemConsumable_Egg_Basilisk"
+},{
+"label":"Snow Owl Egg",
+"t":"Eggs",
+"bp":"Extinction/Dinos/Owl/PrimalItemConsumable_Egg_Owl.PrimalItemConsumable_Egg_Owl"
+},{
+"label":"Tek Parasaur Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/Test/PrimalItemConsumable_Egg_Para_Bionic.PrimalItemConsumable_Egg_Para_Bionic"
+},{
+"label":"Tek Quetzal Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz_Bionic.PrimalItemConsumable_Egg_Quetz_Bionic"
+},{
+"label":"Tek Raptor Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/Test/PrimalItemConsumable_Egg_Raptor_Bionic.PrimalItemConsumable_Egg_Raptor_Bionic"
+},{
+"label":"Tek Rex Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/Test/PrimalItemConsumable_Egg_Rex_Bionic.PrimalItemConsumable_Egg_Rex_Bionic"
+},{
+"label":"Tek Stego Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/Test/PrimalItemConsumable_Egg_Stego_Bionic.PrimalItemConsumable_Egg_Stego_Bionic"
+},{
+"label":"Velonasaur Egg",
+"t":"Eggs",
+"bp":"Extinction/Dinos/Spindles/PrimalItemConsumable_Egg_Spindles.PrimalItemConsumable_Egg_Spindles"
+},{
+"label":"Dinosaur Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg.PrimalItemConsumable_Egg"
+},{
+"label":"Dinosaur Egg Large",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Large.PrimalItemConsumable_Egg_Large"
+},{
+"label":"Dinosaur Egg Medium",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Medium.PrimalItemConsumable_Egg_Medium"
+},{
+"label":"Dinosaur Egg Small",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Small.PrimalItemConsumable_Egg_Small"
+},{
+"label":"Dinosaur Egg Special",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Special.PrimalItemConsumable_Egg_Special"
+},{
+"label":"Dinosaur Egg XLarge",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_XtraLarge.PrimalItemConsumable_Egg_XtraLarge"
+},{
+"label":"Dinosaur Egg XSmall",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_XSmall.PrimalItemConsumable_Egg_XSmall"
+},{
+"label":"Snow Owl Pellet",
+"t":"Farming",
+"bp":"Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet"
+},{
+"label":"Admin Blink Rifle",
+"t":"Weapons",
+"bp":"Extinction/Weapon_AdminBlinkRifle/PrimalItem_WeaponAdminBlinkRifle.PrimalItem_WeaponAdminBlinkRifle"
+},{
+"label":"Scout Remote",
+"t":"Weapons",
+"bp":"Extinction/Dinos/Scout/PrimalItem_WeaponScoutRemote.PrimalItem_WeaponScoutRemote"
+},{
+"label":"Tek Gravity Grenade",
+"t":"Weapons",
+"bp":"Extinction/CoreBlueprints/Weapons/PrimalItem_WeaponTekGravityGrenade.PrimalItem_WeaponTekGravityGrenade"
+},{
+"label":"Aberrant Helmet Skin (Aberration)",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_AberrationHelmet.PrimalItemSkin_AberrationHelmet"
+},{
+"label":"Aberrant Sword Skin (Aberration)",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_AberrationSword.PrimalItemSkin_AberrationSword"
+},{
+"label":"Brachiosaurus Costume",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemCostume_Brachiosaurus.PrimalItemCostume_Brachiosaurus"
+},{
+"label":"Bulbdog Mask Skin (Aberration)",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_PugMask.PrimalItemSkin_PugMask"
+},{
+"label":"Corrupted Boots Skin",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_CorruptedBoots.PrimalItemSkin_CorruptedBoots"
+},{
+"label":"Corrupted Chestpiece Skin",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_CorruptedShirt.PrimalItemSkin_CorruptedShirt"
+},{
+"label":"Corrupted Gloves Skin",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_CorruptedGloves.PrimalItemSkin_CorruptedGloves"
+},{
+"label":"Corrupted Helmet Skin",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_CorruptedHelmet.PrimalItemSkin_CorruptedHelmet"
+},{
+"label":"Corrupted Pants Skin",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_CorruptedPants.PrimalItemSkin_CorruptedPants"
+},{
+"label":"Dilo Mask Skin",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DiloMask.PrimalItemSkin_DiloMask"
+},{
+"label":"Dino Easter Chick Hat",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DinoChickHat.PrimalItemSkin_DinoChickHat"
+},{
+"label":"Dino Easter Egg Hat",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DinoEasterEggHat.PrimalItemSkin_DinoEasterEggHat"
+},{
+"label":"Dino Glasses Skin",
+"t":"Skins",
+"id":308,
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_DinoSpecs.PrimalItemSkin_DinoSpecs"
+},{
+"label":"Easter Chick Hat",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_EasterChick.PrimalItemSkin_EasterChick"
+},{
+"label":"Easter Egg Hat",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_EasterEggHat.PrimalItemSkin_EasterEggHat"
+},{
+"label":"HomoDeus Boots Skin",
+"t":"Skins",
+"bp":"Extinction/CoreBlueprints/Items/Skin/PrimalItemSkin_HomoDeusBoots.PrimalItemSkin_HomoDeusBoots"
+},{
+"label":"HomoDeus Gloves Skin",
+"t":"Skins",
+"bp":"Extinction/CoreBlueprints/Items/Skin/PrimalItemSkin_HomoDeusGloves.PrimalItemSkin_HomoDeusGloves"
+},{
+"label":"HomoDeus Helmet Skin",
+"t":"Skins",
+"bp":"Extinction/CoreBlueprints/Items/Skin/PrimalItemSkin_HomoDeusHelmet.PrimalItemSkin_HomoDeusHelmet"
+},{
+"label":"HomoDeus Pants Skin",
+"t":"Skins",
+"bp":"Extinction/CoreBlueprints/Items/Skin/PrimalItemSkin_HomoDeusPants.PrimalItemSkin_HomoDeusPants"
+},{
+"label":"HomoDeus Shirt Skin",
+"t":"Skins",
+"bp":"Extinction/CoreBlueprints/Items/Skin/PrimalItemSkin_HomoDeusShirt.PrimalItemSkin_HomoDeusShirt"
+},{
+"label":"Nerdry Glasses Skin",
+"t":"Skins",
+"id":300,
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_Glasses.PrimalItemSkin_Glasses"
+},{
+"label":"Reaper Helmet Skin (Aberration)",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ReaperHelmet.PrimalItemSkin_ReaperHelmet"
+},{
+"label":"Stygimoloch Costume",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemCostume_Stygimoloch.PrimalItemCostume_Stygimoloch"
+},{
+"label":"Styracosaurus Costume",
+"t":"Skins",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemCostume_Styracosaurus.PrimalItemCostume_Styracosaurus"
+},{
+"label":"Desert Titan Trophy",
+"t":"Trophies",
+"bp":"Extinction/CoreBlueprints/Trophies/PrimalItemTrophy_Kaiju_Desert.PrimalItemTrophy_Kaiju_Desert"
+},{
+"label":"Forest Titan Trophy",
+"t":"Trophies",
+"bp":"Extinction/CoreBlueprints/Trophies/PrimalItemTrophy_Kaiju_Forest.PrimalItemTrophy_Kaiju_Forest"
+},{
+"label":"Ice Titan Trophy",
+"t":"Trophies",
+"bp":"Extinction/CoreBlueprints/Trophies/PrimalItemTrophy_Kaiju_Ice.PrimalItemTrophy_Kaiju_Ice"
+},{
+"label":"King Titan Trophy (Alpha)",
+"t":"Trophies",
+"bp":"Extinction/CoreBlueprints/Trophies/PrimalItemTrophy_Kaiju_King_Alpha.PrimalItemTrophy_Kaiju_King_Alpha"
+},{
+"label":"King Titan Trophy (Beta)",
+"t":"Trophies",
+"bp":"Extinction/CoreBlueprints/Trophies/PrimalItemTrophy_Kaiju_King_Beta.PrimalItemTrophy_Kaiju_King_Beta"
+},{
+"label":"King Titan Trophy (Gamma)",
+"t":"Trophies",
+"bp":"Extinction/CoreBlueprints/Trophies/PrimalItemTrophy_Kaiju_King_Gamma.PrimalItemTrophy_Kaiju_King_Gamma"
+},{
+"label":"Desert Titan Saddle",
+"t":"Saddles",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_DesertKaiju.PrimalItemArmor_DesertKaiju"
+},{
+"label":"Forest Titan Saddle",
+"t":"Saddles",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_ForestKaiju.PrimalItemArmor_ForestKaiju"
+},{
+"label":"Ice Titan Saddle",
+"t":"Saddles",
+"bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_IceKaiju.PrimalItemArmor_IceKaiju"
+}
+]}

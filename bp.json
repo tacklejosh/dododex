@@ -5063,27 +5063,27 @@
 "g":"Egg_Baryonyx"
 },{
 "label":"Behemoth Tek Gate",
-"t":"Structures",
+"t":"Tek",
 "bp":"PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekGate_Large.PrimalItemStructure_TekGate_Large",
 "g":"TekGate_Large"
 },{
 "label":"Behemoth Tek Gateway",
-"t":"Structures",
+"t":"Tek",
 "bp":"PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekGateframe_Large.PrimalItemStructure_TekGateframe_Large",
 "g":"TekGateframe_Large"
 },{
 "label":"Sloped Tek Roof",
-"t":"Structures",
+"t":"Tek",
 "bp":"PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekRoof.PrimalItemStructure_TekRoof",
 "g":"TekRoof"
 },{
 "label":"Sloped Tek Wall Left",
-"t":"Structures",
+"t":"Tek",
 "bp":"PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekWall_Sloped_Left.PrimalItemStructure_TekWall_Sloped_Left",
 "g":"TekWall_Sloped_Left"
 },{
 "label":"Sloped Tek Wall Right",
-"t":"Structures",
+"t":"Tek",
 "bp":"PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekWall_Sloped_Right.PrimalItemStructure_TekWall_Sloped_Right",
 "g":"TekWall_Sloped_Right"
 },{
@@ -5539,17 +5539,19 @@
 },{
 "label":"Alpha Megalodon",
 "t":"Alphas",
+"cid":"megalodon",
 "id":"MegaMegalodon_Character_BP_C",
 "bp":"PrimalEarth/Dinos/Megalodon/MEgaMegalodon_Character_BP.MegaMegalodon_Character_BP",
 "g":"MegaMegalodon_Character_BP"
 },{
 "label":"Daeodon",
+"cid":"daeodon",
 "t":"Dinos",
 "id":"Daeodon_Character_BP_C",
 "bp":"PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP"
 },{
 "label":"Giant Bee",
-"cid":"giant bee",
+"cid":"giantbee",
 "t":"Dinos",
 "id":"Bee_Character_BP_C",
 "bp":"PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP"
@@ -6620,13 +6622,14 @@
 "bp":"PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP"
 },{
 "label":"Compy",
-"t":"Dinosaurs",
+"t":"Dinos",
+"cid":"compy",
 "id":"Compy_Character_BP_C",
 "bp":"PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP"
 },{
 "label":"Pachy",
 "cid":"pachy",
-"t":"Dinosaurs",
+"t":"Dinos",
 "id":"Pachy_Character_BP_C",
 "bp":"PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP"
 },{
@@ -6638,7 +6641,7 @@
 },{
 "label":"Rex",
 "cid":"rex",
-"t":"Dinosaurs",
+"t":"Dinos",
 "id":"Rex_Character_BP_C",
 "bp":"PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
 },{
@@ -6647,238 +6650,6 @@
 "t":"Reptiles",
 "id":"Sarco_Character_BP_C",
 "bp":"PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP"
-},{
-"label":"Tek Parasaur",
-"cid":"tek parasaur",
-"t":"Tek Creatures",
-"id":"BionicPara_Character_BP_C",
-"bp":"PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP"
-},{
-"label":"Tek Quetzal",
-"cid":"tek quetzal",
-"t":"Tek Creatures",
-"id":"BionicQuetz_Character_BP_C",
-"bp":"PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP"
-},{
-"label":"Tek Raptor",
-"cid":"tek raptor",
-"t":"Tek Creatures",
-"id":"BionicRaptor_Character_BP_C",
-"bp":"PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP"
-},{
-"label":"Tek Rex",
-"cid":"tek rex",
-"t":"Tek Creatures",
-"id":"BionicRex_Character_BP_C",
-"bp":"PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP"
-},{
-"label":"Tek Stegosaurus",
-"cid":"tek stegosaurus",
-"t":"Tek Creatures",
-"id":"BionicStego_Character_BP_C",
-"bp":"PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP"
-},{
-"label":"Ice Wyvern",
-"cid":"wyvern",
-"t":"Fantasy",
-"id":"Ragnarok_Wyvern_Override_Ice_C",
-"bp":"Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice.Ragnarok_Wyvern_Override_Ice"
-},{
-"label":"Aberrant Achatina",
-"t":"Invertebrates",
-"id":"Achatina_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant"
-},{
-"label":"Aberrant Anglerfish",
-"t":"Fish",
-"id":"Angler_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant"
-},{
-"label":"Aberrant Ankylosaurus",
-"t":"Dinosaurs",
-"id":"Ankylo_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant"
-},{
-"label":"Aberrant Araneo",
-"t":"Invertebrates",
-"id":"SpiderS_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP_Aberrant.SpiderS_Character_BP_Aberrant"
-},{
-"label":"Aberrant Arthropluera",
-"t":"Invertebrates",
-"id":"Arthro_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP_Aberrant.Arthro_Character_BP_Aberrant"
-},{
-"label":"Aberrant Baryonyx",
-"t":"Dinosaurs",
-"id":"Baryonyx_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant"
-},{
-"label":"Aberrant Beelzebufo",
-"t":"Reptiles",
-"id":"Toad_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Toad/Toad_Character_BP_Aberrant.Toad_Character_BP_Aberrant"
-},{
-"label":"Aberrant Carbonemys",
-"t":"Reptiles",
-"id":"Turtle_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Turtle/Turtle_Character_BP_Aberrant.Turtle_Character_BP_Aberrant"
-},{
-"label":"Aberrant Carnotaurus",
-"t":"Dinosaurs",
-"id":"Carno_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Carno/Carno_Character_BP_Aberrant.Carno_Character_BP_Aberrant"
-},{
-"label":"Aberrant Cnidaria",
-"t":"Invertebrates",
-"id":"Cnidaria_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP_Aberrant.Cnidaria_Character_BP_Aberrant"
-},{
-"label":"Aberrant Coelacanth",
-"t":"Fish",
-"id":"Coel_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_Aberrant.Coel_Character_BP_Aberrant"
-},{
-"label":"Aberrant Dimetrodon",
-"t":"Dinosaurs",
-"id":"Dimetro_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP_Aberrant.Dimetro_Character_BP_Aberrant"
-},{
-"label":"Aberrant Dimorphodon",
-"t":"Dinosaurs",
-"id":"Dimorph_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP_Aberrant.Dimorph_Character_BP_Aberrant"
-},{
-"label":"Aberrant Diplocaulus",
-"t":"Amphibians",
-"id":"Diplocaulus_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP_Aberrant.Diplocaulus_Character_BP_Aberrant"
-},{
-"label":"Aberrant Diplodocus",
-"t":"Dinosaurs",
-"id":"Diplodocus_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP_Aberrant.Diplodocus_Character_BP_Aberrant"
-},{
-"label":"Aberrant Direbear",
-"t":"Mammals",
-"id":"Direbear_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Direbear/Direbear_Character_BP_Aberrant.Direbear_Character_BP_Aberrant"
-},{
-"label":"Aberrant Dodo",
-"t":"Birds",
-"id":"Dodo_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Aberrant.Dodo_Character_BP_Aberrant"
-},{
-"label":"Aberrant Doedicurus",
-"t":"Dinosaurs",
-"id":"Doed_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant"
-},{
-"label":"Aberrant Dung Beetle",
-"t":"Invertebrates",
-"id":"DungBeetle_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant"
-},{
-"label":"Aberrant Electrophorus",
-"t":"Fish",
-"id":"Eel_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Eel/Eel_Character_BP_Aberrant.Eel_Character_BP_Aberrant"
-},{
-"label":"Aberrant Equus",
-"t":"Mammals",
-"id":"Equus_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Equus/Equus_Character_BP_Aberrant.Equus_Character_BP_Aberrant"
-},{
-"label":"Aberrant Gigantopithecus",
-"t":"Mammals",
-"id":"Bigfoot_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP_Aberrant.Bigfoot_Character_BP_Aberrant"
-},{
-"label":"Aberrant Iguanodon",
-"t":"Dinosaurs",
-"id":"Iguanodon_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP_Aberrant.Iguanodon_Character_BP_Aberrant"
-},{
-"label":"Aberrant Lystrosaurus",
-"t":"Dinosaurs",
-"id":"Lystro_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP_Aberrant.Lystro_Character_BP_Aberrant"
-},{
-"label":"Aberrant Manta",
-"t":"Fish",
-"id":"Manta_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Manta/Manta_Character_BP_Aberrant.Manta_Character_BP_Aberrant"
-},{
-"label":"Aberrant Megalania",
-"cid":"megalania",
-"t":"Reptiles",
-"id":"Megalania_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Megalania/Megalania_Character_BP_Aberrant.Megalania_Character_BP_Aberrant"
-},{
-"label":"Aberrant Megalosaurus",
-"t":"Dinosaurs",
-"id":"Megalosaurus_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_Aberrant.Megalosaurus_Character_BP_Aberrant"
-},{
-"label":"Aberrant Meganeura",
-"t":"Invertebrates",
-"id":"Dragonfly_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP_Aberrant.Dragonfly_Character_BP_Aberrant"
-},{
-"label":"Aberrant Moschops",
-"t":"Synapsids",
-"id":"Moschops_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant"
-},{
-"label":"Aberrant Otter",
-"t":"Mammals",
-"id":"Otter_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Otter/Otter_Character_BP_Aberrant.Otter_Character_BP_Aberrant"
-},{
-"label":"Aberrant Ovis",
-"t":"Mammals",
-"id":"Sheep_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Sheep/Sheep_Character_BP_Aberrant.Sheep_Character_BP_Aberrant"
-},{
-"label":"Aberrant Paraceratherium",
-"t":"Mammals",
-"id":"Paracer_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP_Aberrant.Paracer_Character_BP_Aberrant"
-},{
-"label":"Aberrant Parasaur",
-"t":"Dinosaurs",
-"id":"Para_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Para/Para_Character_BP_Aberrant.Para_Character_BP_Aberrant"
-},{
-"label":"Aberrant Piranha",
-"t":"Fish",
-"id":"Piranha_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Piranha/Piranha_Character_BP_Aberrant.Piranha_Character_BP_Aberrant"
-},{
-"label":"Aberrant Pulmonoscorpius",
-"t":"Invertebrates",
-"id":"Scorpion_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP_Aberrant.Scorpion_Character_BP_Aberrant"
-},{
-"label":"Aberrant Purlovia",
-"t":"Synapsids",
-"id":"Purlovia_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP_Aberrant.Purlovia_Character_BP_Aberrant"
-},{
-"label":"Aberrant Raptor",
-"t":"Dinosaurs",
-"id":"Raptor_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Raptor/Raptor_Character_BP_Aberrant.Raptor_Character_BP_Aberrant"
-},{
-"label":"Aberrant Sabertooth Salmon",
-"t":"Fish",
-"id":"Salmon_Character_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Salmon/Salmon_Character_Aberrant.Salmon_Character_Aberrant"
-},{
-"label":"Aberrant Sarco",
-"t":"Reptiles",
-"id":"Sarco_Character_BP_Aberrant_C",
-"bp":"PrimalEarth/Dinos/Sarco/Sarco_Character_BP_Aberrant.Sarco_Character_BP_Aberrant"
 },{
 "label":"Tek Parasaur",
 "cid":"parasaur",
@@ -7256,7 +7027,7 @@
 "bp":"Extinction/CoreBlueprints/Items/PrimalItemStructure_TaxidermyBase_Small.PrimalItemStructure_TaxidermyBase_Small"
 },{
 "label":"Tek Bridge",
-"t":"Structures",
+"t":"Tek",
 "bp":"Extinction/Structures/TekBridge/PrimalItemStructure_TekBridge.PrimalItemStructure_TekBridge"
 },{
 "label":"Filled Fish Basket",

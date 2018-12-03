@@ -475,7 +475,7 @@
 },{
 "id":"RenamePlayer",
 "c":"RenamePlayer <Player Name> <New Name>",
-"e":"RenamePlayer DiloLover DodoLover",
+"e":"RenamePlayer \"DiloLover\" DodoLover",
 "t":"Tribe & Player Administration",
 "d":"Renames a player."
 },{

@@ -767,6 +767,12 @@
 "t":"Movement",
 "d":"Teleports the current player to another player based on their player ID."
 },{
+"id":"TPCoords",
+"c":"TPCoords <Latitude> <Longitude>",
+"e":"TPCoords 50 60",
+"t":"Movement",
+"d":"Teleports the current player to a specific GPS coordinate."
+},{
 "id":"TestSteamRefreshItems",
 "c":"TestSteamRefreshItems",
 "e":"TestSteamRefreshItems",

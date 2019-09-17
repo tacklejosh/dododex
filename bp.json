@@ -7283,5 +7283,241 @@
 "label":"Ice Titan Saddle",
 "t":"Saddles",
 "bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_IceKaiju.PrimalItemArmor_IceKaiju"
+},{
+"label":"Blue Crystalized Sap",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_BlueSap.PrimalItemResource_BlueSap",
+"g":"BlueSap"
+},{
+"label":"Condensed Gas",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_CondensedGas.PrimalItemResource_CondensedGas",
+"g":"CondensedGas"
+},{
+"label":"Corrupted Nodule",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_CorruptedPolymer.PrimalItemResource_CorruptedPolymer",
+"g":"CorruptedPolymer"
+},{
+"label":"Crafted Element Dust",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDustFromShards.PrimalItemResource_ElementDustFromShards",
+"g":"DustFromShards"
+},{
+"label":"Dermis",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Items/PrimalItem_TaxidermyDermis.PrimalItem_TaxidermyDermis",
+"g":"Dermis"
+},{
+"label":"Dinosaur Bone",
+"t":"Resources",
+"bp":"PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ARKBone.PrimalItemResource_ARKBone",
+"g":"Arkbone"
+},{
+"label":"Element Dust",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust",
+"g":"ElementDust"
+},{
+"label":"Fragmented Green Gem",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_FracturedGem.PrimalItemResource_FracturedGem",
+"g":"FracturedGem"
+},{
+"label":"Corrupted Wood",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_CorruptedWood.PrimalItemResource_CorruptedWood"
+},{
+"label":"Red Crystalized Sap",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_RedSap.PrimalItemResource_RedSap",
+"g":"RedSap"
+},{
+"label":"Scrap Metal",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal",
+"g":"ScrapMetal"
+},{
+"label":"Scrap Metal Ingot",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetalIngot.PrimalItemResource_ScrapMetalIngot",
+"g":"ScrapMetalIngot"
+},{
+"label":"Silicate",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_Silicate.PrimalItemResource_Silicate",
+"g":"Silicon"
+},{
+"label":"Unstable Element",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementRefined.PrimalItemResource_ElementRefined",
+"g":"ElementRefined"
+},{
+"label":"Unstable Element Shard",
+"t":"Resources",
+"bp":"Extinction/CoreBlueprints/Resources/PrimalItemResource_ShardRefined.PrimalItemResource_ShardRefined",
+"g":"ShardRefined"
+},{
+"label":"Basic Augmented Kibble",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_XSmall_EX.PrimalItemConsumable_Kibble_Base_XSmall_EX"
+},{
+"label":"Simple Augmented Kibble",
+"t":"Consumables",
+"bp":"Extinction/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Small_EX.PrimalItemConsumable_Kibble_Base_Small_EX"
+},{
+"label":"Evil Emote",
+"t":"Consumables",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockEmote_Evil.PrimalItemConsumable_UnlockEmote_Evil"
+},{
+"label":"Large Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Large.PrimalItemConsumable_Egg_Large"
+},{
+"label":"Medium Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Medium.PrimalItemConsumable_Egg_Medium"
+},{
+"label":"Small Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Small.PrimalItemConsumable_Egg_Small"
+},{
+"label":"Special Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Special.PrimalItemConsumable_Egg_Special"
+},{
+"label":"Extra Large Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_XtraLarge.PrimalItemConsumable_Egg_XtraLarge"
+},{
+"label":"Extra Small Egg",
+"t":"Eggs",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_XSmall.PrimalItemConsumable_Egg_XSmall"
+},{
+"label":"Deinonychus Saddle",
+"t":"Saddles",
+"id":"PrimalItemArmor_DeinonychusSaddle_C",
+"bp":"Valguero/Dinos/Deinonychus/PrimalItemArmor_DeinonychusSaddle.PrimalItemArmor_DeinonychusSaddle"
+},{
+"label":"Basic Kibble",
+"t":"Consumables",
+"id":"PrimalItemConsumable_Kibble_Base_XSmall",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_XSmall.PrimalItemConsumable_Kibble_Base_XSmall",
+"g":"Kibble_Base_XSmall"
+},{
+"label":"Simple Kibble",
+"t":"Consumables",
+"id":"PrimalItemConsumable_Kibble_Base_Small",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Small.PrimalItemConsumable_Kibble_Base_Small",
+"g":"Kibble_Base_Small"
+},{
+"label":"Regular Kibble",
+"t":"Consumables",
+"id":"PrimalItemConsumable_Kibble_Base_Medium",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Medium.PrimalItemConsumable_Kibble_Base_Medium",
+"g":"Kibble_Base_Medium"
+},{
+"label":"Superior Kibble",
+"t":"Consumables",
+"id":"PrimalItemConsumable_Kibble_Base_Large",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Large.PrimalItemConsumable_Kibble_Base_Large",
+"g":"Kibble_Base_Large"
+},{
+"label":"Exceptional Kibble",
+"t":"Consumables",
+"id":"PrimalItemConsumable_Kibble_Base_XLarge",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_XLarge.PrimalItemConsumable_Kibble_Base_XLarge",
+"g":"Kibble_Base_XLarge"
+},{
+"label":"Extraordinary Kibble",
+"t":"Consumables",
+"id":"PrimalItemConsumable_Kibble_Base_Special",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Special.PrimalItemConsumable_Kibble_Base_Special",
+"g":"Kibble_Base_Special"
+},{
+"label":"\"Evil\" Emote",
+"t":"Consumables",
+"id":"PrimalItemConsumable_UnlockEmote_Evil_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockEmote_Evil.PrimalItemConsumable_UnlockEmote_Evil"
+},{
+"label":"Deinonychus Egg (Valguero)",
+"t":"Eggs",
+"id":"PrimalItemConsumable_Egg_Deinonychus_Fertilized_C",
+"bp":"Valguero/Dinos/Deinonychus/PrimalItemConsumable_Egg_Deinonychus_Fertilized.PrimalItemConsumable_Egg_Deinonychus_Fertilized"
+},{
+"label":"Alpha Raptor Swim Bottom Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_SummerSwimPants_Alpha_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SummerSwimPants_Alpha.PrimalItemSkin_SummerSwimPants_Alpha"
+},{
+"label":"Alpha Raptor Swim Top Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_SummerSwimShirt_Alpha_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SummerSwimShirt_Alpha.PrimalItemSkin_SummerSwimShirt_Alpha"
+},{
+"label":"Chocolate Rabbit Club Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_Club_ChocolateRabbit_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_Club_ChocolateRabbit.PrimalItemSkin_Club_ChocolateRabbit"
+},{
+"label":"Dino Marshmallow Hat Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_DinoMarshmallowHat_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DinoMarshmallowHat.PrimalItemSkin_DinoMarshmallowHat"
+},{
+"label":"Dino Uncle Sam Hat Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_TopHat_Summer_Dino_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_TopHat_Summer_Dino.PrimalItemSkin_TopHat_Summer_Dino"
+},{
+"label":"Floral Swim Bottom Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_SummerSwimPants_Flowers_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SummerSwimPants_Flowers.PrimalItemSkin_SummerSwimPants_Flowers"
+},{
+"label":"Floral Swim Top Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_SummerSwimShirt_Flowers_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SummerSwimShirt_Flowers.PrimalItemSkin_SummerSwimShirt_Flowers"
+},{
+"label":"Giga Poop Swim Bottom Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_SummerSwimPants_Carno_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SummerSwimPants_Carno.PrimalItemSkin_SummerSwimPants_Carno"
+},{
+"label":"Giga Poop Swim Top Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_SummerSwimShirt_Carno_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SummerSwimShirt_Carno.PrimalItemSkin_SummerSwimShirt_Carno"
+},{
+"label":"Marshmallow Hat Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_MarshmallowHat_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_MarshmallowHat.PrimalItemSkin_MarshmallowHat"
+},{
+"label":"Mini-HLNA",
+"t":"Skins",
+"id":"PrimalItemSkin_MiniHLNA_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_MiniHLNA.PrimalItemSkin_MiniHLNA"
+},{
+"label":"Summer Swimsuit Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_SummerSwimPants_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SummerSwimPants.PrimalItemSkin_SummerSwimPants"
+},{
+"label":"T-Rex Swim Bottom Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_SummerSwimPants_Arthro_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SummerSwimPants_Arthro.PrimalItemSkin_SummerSwimPants_Arthro"
+},{
+"label":"T-Rex Swim Top Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_SummerSwimShirt_Arthro_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SummerSwimShirt_Arthro.PrimalItemSkin_SummerSwimShirt_Arthro"
+},{
+"label":"Uncle Sam Hat Skin",
+"t":"Skins",
+"id":"PrimalItemSkin_TopHat_Summer_C",
+"bp":"PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_TopHat_Summer.PrimalItemSkin_TopHat_Summer"
 }
 ]}

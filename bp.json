@@ -6555,37 +6555,44 @@
 "bp":"Aberration/Boss/Rockwell/Rockwell_Character_BP.Rockwell_Character_BP"
 },{
 "label":"Rockwell (Alpha)",
+"cid":"rockwell",
 "t":"Bosses",
 "id":"Rockwell_Character_BP_Hard_C",
 "bp":"Aberration/Boss/Rockwell/Rockwell_Character_BP_Hard.Rockwell_Character_BP_Hard"
 },{
 "label":"Rockwell (Beta)",
+"cid":"rockwell",
 "t":"Bosses",
 "id":"Rockwell_Character_BP_Medium_C",
 "bp":"Aberration/Boss/Rockwell/Rockwell_Character_BP_Medium.Rockwell_Character_BP_Medium"
 },{
 "label":"Rockwell (Gamma)",
+"cid":"rockwell",
 "t":"Bosses",
 "id":"Rockwell_Character_BP_Easy_C",
 "bp":"Aberration/Boss/Rockwell/Rockwell_Character_BP_Easy.Rockwell_Character_BP_Easy"
 },{
 "label":"Rockwell Tentacle",
+"cid":"rockwell",
 "cid":"tentacle",
 "t":"Bosses",
 "id":"RockwellTentacle_Character_BP_C",
 "bp":"Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP.RockwellTentacle_Character_BP"
 },{
 "label":"Rockwell Tentacle (Alpha)",
+"cid":"rockwell",
 "t":"Bosses",
 "id":"RockwellTentacle_Character_BP_Alpha_C",
 "bp":"Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP_Alpha.RockwellTentacle_Character_BP_Alpha"
 },{
 "label":"Rockwell Tentacle (Beta)",
+"cid":"rockwell",
 "t":"Bosses",
 "id":"RockwellTentacle_Character_BP_Beta_C",
 "bp":"Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP_Beta.RockwellTentacle_Character_BP_Beta"
 },{
 "label":"Rockwell Tentacle (Gamma)",
+"cid":"rockwell",
 "t":"Bosses",
 "id":"RockwellTentacle_Character_BP_Gamma_C",
 "bp":"Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP_Gamma.RockwellTentacle_Character_BP_Gamma"
@@ -6607,11 +6614,6 @@
 "t":"Aberration",
 "id":"LanternGoat_Character_BP_C",
 "bp":"Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP"
-},{
-"label":"Anglerfish",
-"t":"Fish",
-"id":"Angler_Character_BP_C",
-"bp":"PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP"
 },{
 "label":"Bunny Dodo",
 "t":"Event Creatures",
@@ -6683,31 +6685,33 @@
 },{
 "label":"Ice Wyvern",
 "cid":"wyvern",
-"t":"Fantasy",
+"t":"Dinos",
 "id":"Ragnarok_Wyvern_Override_Ice_C",
 "bp":"Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice.Ragnarok_Wyvern_Override_Ice"
 },{
 "label":"Aberrant Anglerfish",
-"t":"Fish",
+"t":"Aberration",
 "id":"Angler_Character_BP_Aberrant_C",
 "bp":"PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant"
 },{
 "label":"Aberrant Direbear",
-"t":"Mammals",
+"t":"Aberration",
 "id":"Direbear_Character_BP_Aberrant_C",
 "bp":"PrimalEarth/Dinos/Direbear/Direbear_Character_BP_Aberrant.Direbear_Character_BP_Aberrant"
 },{
 "label":"Aberrant Gigantopithecus",
-"t":"Mammals",
+"t":"Aberration",
 "id":"Bigfoot_Character_BP_Aberrant_C",
 "bp":"PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP_Aberrant.Bigfoot_Character_BP_Aberrant"
 },{
 "label":"Aberrant Sabertooth Salmon",
-"t":"Fish",
+"cid":"sabertoothsalmon",
+"t":"Aberration",
 "id":"Salmon_Character_Aberrant_C",
 "bp":"PrimalEarth/Dinos/Salmon/Salmon_Character_Aberrant.Salmon_Character_Aberrant"
 },{
 "label":"Alpha Surface Reaper King",
+"cid":"Alphas",
 "t":"Alpha Predators",
 "id":"MegaXenomorph_Character_BP_Male_Surface_C",
 "bp":"Aberration/Dinos/Nameless/MegaXenomorph_Character_BP_Male_Surface.MegaXenomorph_Character_BP_Male_Surface"
